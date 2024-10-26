@@ -1,0 +1,10 @@
+package org.piyush;
+
+import org.piyush.ui.RuleEngineUI;
+
+public class RuleEngineApp {
+    public static void main(String[] args) {
+        RuleEngineUI ui = new RuleEngineUI();
+        ui.display();
+    }
+}
